@@ -9,8 +9,8 @@ int main() {
 		std::cout << Random::floatInRange(0, 10) << std::endl;
 	}
 
-	Application app;
-	app.runMainLoop();
+	//Application app;
+	//app.runMainLoop();
 	system("pause");
 	return 0;
 }
