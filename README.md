@@ -1,2 +1,2 @@
 # C-SFML-Game-Engine
-A simple c++ sfml game engine exercise
+A Simple C++ SFML Game Engine Exercise
