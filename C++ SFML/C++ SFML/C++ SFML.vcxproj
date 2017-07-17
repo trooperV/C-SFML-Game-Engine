@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h" />
+    <ClInclude Include="Display.h" />
+    <ClInclude Include="Game_State.h" />
+    <ClInclude Include="Playing_State.h" />
+    <ClInclude Include="Random.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application.cpp" />
+    <ClCompile Include="Display.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Random.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{97728396-25E3-4D2F-8D64-4363D33D6B0E}</ProjectGuid>
