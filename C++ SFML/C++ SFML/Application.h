@@ -1,7 +1,9 @@
 #ifndef  A_H
 #define A_H
 
-#pragma once
+#include <memory>
+#include <stack>
+#include "Game_State.h"
 
 class Application {
 private:
